@@ -2,7 +2,7 @@
 * @Author: wanganqi
 * @Date:   2020-06-13 12:46:30
 * @Last Modified by:   wanganqi
-* @Last Modified time: 2020-06-14 12:49:59
+* @Last Modified time: 2020-06-14 15:03:24
 */
 	<style>
 	/*header*/
@@ -232,6 +232,9 @@
 		background-color: rgba(255,255,255,1);
 		width: 1200px;
 		margin: 0 auto;	
+	}
+	.banner2 {
+		background-color: #e9edf0;
 	}
 	.pdushu {
 		float: left;
